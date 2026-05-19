@@ -37,9 +37,14 @@ O objetivo do projeto foi transformar dados transacionais de uma locadora de fil
 
 ## 📸 Preview do Dashboard
 
-### Página 1
-![Dashboard](image.png)
+### 📈 Página 1 — Análise Estratégica
+![Página 1](pagina-1.png)
 
+### 👥 Página 2 — Performance de Clientes
+![Página 2](pagina-2.png)
+
+### ⚙️ Página 3 — Análise Operacional
+![Página 3](pagina-3.png)
 ---
 
 ## 🛠️ SQL
